@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@TairDjan 
+iuthub
+/
+lab-6-djanibekov
+generated from desmonduz/ip2018_lab5
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+lab-6-djanibekov/webpage/regex_valid_form.php /
+@desmonduz
+desmonduz Initial commit
+Latest commit b42423d on Mar 8, 2020
+ History
+ 1 contributor
+57 lines (43 sloc)  1.06 KB
+  
 <?php
 
 	$pattern="";
@@ -55,3 +87,15 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
 	</form>
 </body>
 </html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
